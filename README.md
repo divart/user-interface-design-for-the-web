@@ -1,4 +1,4 @@
-###UI Design for the web
+###UI Design for the Web
 
 ####Instructor: Adi Purdila
 
